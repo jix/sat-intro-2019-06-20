@@ -1,0 +1,4 @@
+/__pycache__
+/cadical*
+/libcadical.so
+/solution_*.json
